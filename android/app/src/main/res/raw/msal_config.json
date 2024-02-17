@@ -1,0 +1,15 @@
+{
+  "client_id" : "74f6baf2-6d65-4295-92fc-c62d8e70becb",
+  "authorization_user_agent" : "DEFAULT",
+  "redirect_uri" : "msauth://com.pwc.azure_ad_poc/XgZU4yk3MQF5VcGUkriOG3T59b4%3D",
+  "broker_redirect_uri_registered": true,
+  "authorities" : [
+    {
+      "type": "AAD",
+      "audience": {
+        "type": "AzureADMultipleOrgs",
+        "tenant_id": "organizations"
+      }
+    }
+  ]
+}
